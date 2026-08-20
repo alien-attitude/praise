@@ -410,7 +410,7 @@ export const portfolioData: PortfolioData = {
     "Praise brought structure to our chaos. Nothing fell through the cracks and our documentation has never been cleaner.",
     name: "Anu",
     position: "Team Lead",
-    company: "Plus Tenders"
+    company: "HNG"
   },
   {
     id: "testimonial-2",
@@ -418,7 +418,7 @@ export const portfolioData: PortfolioData = {
     "Reliable, proactive, and detail-obsessed. The systems she set up saved our team hours every single week.",
     name: "Oluwaseun",
     position: "Assistant Team Lead",
-    company: "Plus Tenders"
+    company: "HNG"
   },
   {
     id: "testimonial-3",
